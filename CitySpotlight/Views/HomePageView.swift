@@ -31,7 +31,7 @@ struct HomePage: View {
             ZStack {
                 VStack {
                     ZStack {
-                        Background(length: 350, tall: 370, shift: 35)
+                        Background(length: 351, tall: 370, shift: 35)
                         VStack {
                             HStack {
                                 Text("Weekly Business Spotlight")

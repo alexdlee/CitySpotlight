@@ -44,7 +44,7 @@ struct JourneyView: View {
 
 struct MapView: View {
     var body: some View{
-        Map(coordinateRegion: .constant(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 30.3725793, longitude: -97.7575667), span: MKCoordinateSpan(latitudeDelta: 0.001, longitudeDelta: 0.001))))
+        Map(coordinateRegion: .constant(MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 30.3725793, longitude: -97.7575666), span: MKCoordinateSpan(latitudeDelta: 0.001, longitudeDelta: 0.001))))
             .frame(width: 350, height: 300)
             .cornerRadius(8)
             .border(Color.black, width: 2)

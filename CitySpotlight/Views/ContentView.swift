@@ -14,7 +14,7 @@ struct ContentView: View {
             SearchPage()
                 .tabItem {
                     Image(systemName: "magnifyingglass")
-                    Text("Discover")
+                    Text("Search")
                 }
             JourneyView()
                 .tabItem {

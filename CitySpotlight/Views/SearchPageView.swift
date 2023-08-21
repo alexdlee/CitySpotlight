@@ -162,7 +162,7 @@ struct BusinessDetailView: View {
                 Spacer()
                 
                 Text("\(business.rating.formatted())")
-                    .font(.system(size: 18))
+                    .font(.system(size: 17))
                 
                 ForEach(1..<6) { index in
                     Image(systemName: Int(business.rating.rounded()) >= index ? "star.fill" : "star")
