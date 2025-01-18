@@ -25,8 +25,7 @@ like to implement gamification features, allowing users to earn in-game points a
 2. Open XCode and choose the "Clone Git Repository" option and paste the url.
 
 ## Screenshots
-![Screenshot](link_to_image)
-
-## Demo
-[Live Demo](https://example.com)
+![Screenshot](https://github.com/alexdlee/CitySpotlight/blob/main/Screenshot%202023-08-20%20at%206.51.31%20PM.png?raw=true)
+![Screenshot](https://github.com/alexdlee/CitySpotlight/blob/main/Screenshot%202023-08-20%20at%206.51.39%20PM.png?raw=true)
+![Screenshot](https://github.com/alexdlee/CitySpotlight/blob/main/Screenshot%202023-08-20%20at%206.51.47%20PM.png?raw=true)
 
