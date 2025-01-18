@@ -15,11 +15,6 @@ save favorite businesses and create journal entries about them.
 I would like to implement a user voting system to highlight one small business every week, a "Business Spotlight." Second, I would 
 like to implement gamification features, allowing users to earn in-game points and badges for each business they visit. 
 
-## Technologies
-- Python
-- Flask
-- PostgreSQL
-
 ## Setup
 1. Clone the repository: `git clone <repository_url>`
 2. Open XCode and choose the "Clone Git Repository" option and paste the url.
